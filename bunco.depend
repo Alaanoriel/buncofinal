@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1608525548 source:c:\users\parac\desktop\bunco-main\main.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	"jugadas.h"
+
+1605492186 c:\users\parac\desktop\bunco-main\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608529682 c:\users\parac\desktop\bunco-main\jugadas.h
+	"rlutil.h"
+	<windows.h>
+	<conio.h>
+	<ctime>
+	"dibujo.h"
+
+1605499219 c:\users\parac\desktop\bunco-main\dibujo.h
+	<iostream>
+	<conio.h>
+
